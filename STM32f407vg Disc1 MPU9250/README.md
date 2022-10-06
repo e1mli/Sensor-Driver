@@ -6,7 +6,7 @@ MPU9250_new folder is STM32CubeIDE project document. You can see the main file o
 Library of MPU9250 got from DesertKun.                 
 Link: https://github.com/desertkun/MPU9250
 
-###### I created a library for MPU9250
+###### I created a library for MPU9250. The folder name is "myLibary".
 Folder name: myLibrary
 
 
