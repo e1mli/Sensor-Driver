@@ -1,6 +1,6 @@
 # Sensor-Drivers
 
-# STM32F407vgDisc1-onboard-Accel
+# STM32F407vg Disc1-onboard-Accel
 Acceloremeter control on STM32F407vgDisc1 onboard which LIS3DSH by using SPI.
 
 ONBOARD_ACCEL.zip file is whole project document that created by STM32CubeIDE.
